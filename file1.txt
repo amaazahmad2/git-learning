@@ -5,3 +5,4 @@ this is line 4
 this is line 5
 this is line 6 added in branch 1
 this is line 7 added in branch 1
+this is line 8 added in branch 1
